@@ -5,6 +5,7 @@ public class VeloElec extends Velo{
 	
 	public static double DEFAUT_FACTEUR_PUISSANCE_MOTEUR=15.0;
 	private double facteurPuissanceMoteur;
+	private double DEFAUT_COUPLE_MOTEUR;
 	
 public VeloElec(){
 	super();
