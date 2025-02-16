@@ -49,6 +49,10 @@ public static void main(String[] args) {
     VeloElec velo1 = new VeloElec();
     VeloElec velo2 = new VeloElec(26.0, 20.0);
     VeloElec velo3 = new VeloElec(2.5, 27.5, 25.0);
+    
+    velo1.setGenAlea(new java.util.Random());
+    velo2.setGenAlea(new java.util.Random());
+    velo3.setGenAlea(new java.util.Random());
 
     System.out.println("Vélo électrique 1 : " + velo1);
     System.out.println("Vélo électrique 2 : " + velo2);
