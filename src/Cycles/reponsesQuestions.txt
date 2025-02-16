@@ -6,3 +6,6 @@ Questions 6 :
 
 toString et getPuissance sont les deux méthodes redéfinie dans Velo et VeloElec. 
 
+Questions 7 : 
+
+L'annotation @Override montre qu'une méthodes redefinit une méthode de la classe parente.
