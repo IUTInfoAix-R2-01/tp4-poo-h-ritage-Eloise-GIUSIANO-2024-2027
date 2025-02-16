@@ -60,7 +60,7 @@ public String toString () {
 public double getPuissance (double FrequenceCoupsDePedale) {
 	return FrequenceCoupsDePedale*braquet*diamRoue*genAlea.nextDouble();
 }
-
+ 
     public static void main(String[] args) {
         Velo velo1 = new Velo(14.5, 26.0);
         Velo velo2 = new Velo(28.0);
