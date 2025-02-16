@@ -1,3 +1,8 @@
 Questions 5 : 
 
 Redefinir une methode, c'est la réécrire dans une classe enfant pour changer son fonctionnement par rapport a la classe parent.
+
+Questions 6 : 
+
+toString et getPuissance sont les deux méthodes redéfinie dans Velo et VeloElec. 
+
